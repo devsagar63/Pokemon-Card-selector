@@ -1,6 +1,5 @@
 @import url(https://fonts.bunny.net/css?family=abel:400);
 
-/* Hide radio buttons */
 input[type="radio"] {
 	position: absolute;
 	width: 1px;
